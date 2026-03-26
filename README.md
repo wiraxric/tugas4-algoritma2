@@ -12,3 +12,15 @@ A. Dasar (input Output)
 8. Diskon Belanja
 9. Kalkulator
 10. Tahun Kabisat
+
+B. Looping
+11.	Program mencetak bilangan 1–100 
+12.	Program menjumlahkan bilangan 1–n 
+13.	Program faktorial (iteratif) 
+14.	Program deret Fibonacci (loop) 
+15.	Program tabel perkalian 
+16.	Program mencari jumlah bilangan genap 
+17.	Program menghitung pangkat bilangan 
+18.	Program pola segitiga bintang 
+19.	Program pola piramida angka 
+20.	Program menghitung jumlah digit angka 
