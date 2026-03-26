@@ -15,13 +15,25 @@ A. Dasar (input Output)
 
 B. Looping
 
-11.	Program mencetak bilangan 1–100 
-12.	Program menjumlahkan bilangan 1–n 
-13.	Program faktorial (iteratif) 
-14.	Program deret Fibonacci (loop) 
-15.	Program tabel perkalian 
-16.	Program mencari jumlah bilangan genap 
-17.	Program menghitung pangkat bilangan 
-18.	Program pola segitiga bintang 
-19.	Program pola piramida angka
-20.	Program menghitung jumlah digit angka
+11.	mencetak bilangan 1–100 
+12.	menjumlahkan bilangan 1–n 
+13.	faktorial (iteratif) 
+14.	deret Fibonacci (loop) 
+15.	tabel perkalian 
+16.	mencari jumlah bilangan genap 
+17.	menghitung pangkat bilangan 
+18.	pola segitiga bintang 
+19.	pola piramida angka
+20.	menghitung jumlah digit angka
+
+C. Array
+21. input dan tampilkan array
+22. mencari nilai maksimum dalam array
+23. mencari nilai minimum dalam array
+24. menghitung rata-rata array
+25. membalik array
+26. sorting (bubble sort)
+27. sorting (selection sort)
+28. mencari data (linear search)
+29. menghitung frekuensi angka
+30. menghapus elemen array
