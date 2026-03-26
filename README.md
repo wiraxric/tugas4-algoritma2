@@ -27,6 +27,7 @@ B. Looping
 20.	menghitung jumlah digit angka
 
 C. Array
+
 21. input dan tampilkan array
 22. mencari nilai maksimum dalam array
 23. mencari nilai minimum dalam array
