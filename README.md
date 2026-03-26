@@ -46,3 +46,11 @@ D. String
 33. cek palindrome
 34. menghitung jumlah huruf vokal
 35. membandingkan dua string
+
+E. Fungsi & Rekursif
+
+36. faktorial (rekursif)
+37. Fibonacci (rekursif)
+38. menghitung FPB & KPK
+39. cek bilangan prima (fungsi)
+40. menghitung kombinasi (nCr)
