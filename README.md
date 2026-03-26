@@ -38,3 +38,11 @@ C. Array
 28. mencari data (linear search)
 29. menghitung frekuensi angka
 30. menghapus elemen array
+
+D. String
+
+31. menghitung panjang string
+32. membalik string
+33. cek palindrome
+34. menghitung jumlah huruf vokal
+35. membandingkan dua string
