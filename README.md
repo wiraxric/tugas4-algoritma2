@@ -22,5 +22,5 @@ B. Looping
 16.	Program mencari jumlah bilangan genap 
 17.	Program menghitung pangkat bilangan 
 18.	Program pola segitiga bintang 
-19.	Program pola piramida angka 
-20.	Program menghitung jumlah digit angka 
+19.	Program pola piramida angka
+20.	Program menghitung jumlah digit angka
